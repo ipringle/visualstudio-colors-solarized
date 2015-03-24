@@ -69,7 +69,7 @@
               <Item Name="Disassembly Symbol" Foreground="0x00C4716C" Background="0x02000000" BoldFont="No"/>
               <Item Name="Excluded Code" Foreground="0x00756E58" Background="0x00423607" BoldFont="No"/>
               <Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x00756E58" Background="0x00423607" BoldFont="No"/>
-              <Item Name="MarkerFormatDefinition/FindHighlight" Foreground="0x00756E58" Background="0x00423607" BoldFont="No"/>
+              <Item Name="MarkerFormatDefinition/FindHighlight" Foreground="0x00756E58" Background="0x00164BCB" BoldFont="No"/>
               <Item Name="CurrentLineActiveFormat" Foreground="0x00423607" Background="0x00423607" BoldFont="No"/>
               <Item Name="CurrentLineInactiveFormat" Foreground="0x00423607" Background="0x00423607" BoldFont="No"/>
               <Item Name="HTML Attribute" Foreground="0x00969483" Background="0x02000000" BoldFont="No"/>
