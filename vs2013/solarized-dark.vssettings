@@ -81,7 +81,7 @@
               <Item Name="HTML Server-Side Script" Foreground="0x008236D3" Background="0x00423607" BoldFont="No"/>
               <Item Name="HTML Tag Delimiter" Foreground="0x00756E58" Background="0x02000000" BoldFont="No"/>
               <Item Name="Identifier" Foreground="0x00969483" Background="0x02000000" BoldFont="No"/>
-              <Item Name="Keyword" Foreground="0x00079A71" Background="0x02000000" BoldFont="No"/>
+              <Item Name="Keyword" Foreground="0x00D28B26" Background="0x02000000" BoldFont="No"/>
               <Item Name="Memory Changed" Foreground="0x002F32DC" Background="0x02000000" BoldFont="No"/>
               <Item Name="Number" Foreground="0x0098A12A" Background="0x02000000" BoldFont="No"/>
               <Item Name="Operator" Foreground="0x00079A71" Background="0x02000000" BoldFont="No"/>
