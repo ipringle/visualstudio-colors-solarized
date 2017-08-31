@@ -47,7 +47,7 @@
               <Item Name="Memory Changed" Foreground="0x002F32DC" Background="0x02000000" BoldFont="No"/>
               <Item Name="Stale Code" Foreground="0x008236D3" Background="0x02000000" BoldFont="No"/>
               <Item Name="Number" Foreground="0x0098A12A" Background="0x02000000" BoldFont="No"/>
-              <Item Name="String" Foreground="0x0098A12A" Background="0x02000000" BoldFont="No"/>
+              <Item Name="String" Foreground="0x002F32DC" Background="0x02000000" BoldFont="No"/>
               <Item Name="Identifier" Foreground="0x00969483" Background="0x02000000" BoldFont="No"/>
               <Item Name="Comment" Foreground="0x00756E58" Background="0x02000000" BoldFont="No"/>
               <Item Name="Keyword" Foreground="0x00079A71" Background="0x02000000" BoldFont="No"/>
@@ -55,7 +55,7 @@
           </Category>
           <Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontIsDefault="Yes">
             <Items>
-              <Item Name="MarkerFormatDefinition/FindHighlight" Foreground="0x00756E58" Background="0x00423607" BoldFont="No"/>
+              <Item Name="MarkerFormatDefinition/FindHighlight" Foreground="0x00756E58" Background="0x00164BCB" BoldFont="No"/>
               <Item Name="XML Doc Tag" Foreground="0x00756E58" Background="0x00423607" BoldFont="No"/>
               <Item Name="XML Doc Comment" Foreground="0x00756E58" Background="0x00423607" BoldFont="Yes"/>
               <Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x00756E58" Background="0x00423607" BoldFont="No"/>
